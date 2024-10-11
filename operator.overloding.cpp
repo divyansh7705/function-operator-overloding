@@ -1,3 +1,6 @@
+// divyansh rastogi 
+// 23070123048
+// AIM : operator overloding
 #include <iostream>
 using namespace std;
 
@@ -46,3 +49,7 @@ int main() {
 
     return 0;
 }
+/*
+Sum: 12 + i 9
+Difference: 8 + i 1
+    */
